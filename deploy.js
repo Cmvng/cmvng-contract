@@ -17,7 +17,7 @@ async function main() {
   // Find it at:
   // https://docs.arc.network/arc/references/contract-addresses
   // ──────────────────────────────────────────────────────────
-  const USDC_ADDRESS = "0xYOUR_ARC_TESTNET_USDC_ADDRESS";
+  const USDC_ADDRESS = "0x751174BF2269e13663C5a37fd9dD7714079ED0e3";
 
   console.log("USDC address:", USDC_ADDRESS);
 
